@@ -1,0 +1,16 @@
+20 coins
+sock
+1 coin
+pants
+2 coins
+shirt
+3 coins
+pizza box
+10 coins
+glasses
+15 coins
+paper
+4 coins
+pencil
+eraser
+notebook
